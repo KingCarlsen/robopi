@@ -14,3 +14,4 @@ Vosk — offline speech recognition
 Ollama + qwen2.5:0.5b — local AI inference
 Piper TTS — neural text to speech
 Python + Pillow — animated face via direct framebuffer writes
+<img width="697" height="596" alt="image" src="https://github.com/user-attachments/assets/9fa73647-0326-4f6d-a54e-4bfaf09dfa2e" />
